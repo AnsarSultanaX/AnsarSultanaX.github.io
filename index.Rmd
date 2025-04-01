@@ -1,0 +1,11 @@
+---
+title: "Beer Data Website"
+author: "Sue Camara"
+date: "2025-04-01"
+output: html_document
+---
+
+# The Beer Data Analysis Website
+## Note: The 6 lines of text above are the YAML tags
+### We will knit the RMD file to a html file next
+Then push the index.html to the github.io repo. 
